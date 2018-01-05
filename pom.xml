@@ -92,6 +92,7 @@
         <module>rpc-spring</module>
         <module>rpc-common</module>
         <module>rpc-test</module>
+        <module>rpc-register</module>
     </modules>
 
 
